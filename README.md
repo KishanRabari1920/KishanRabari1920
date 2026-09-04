@@ -110,39 +110,6 @@ me.say_hi()
 
 <br>
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KishanRabari1920&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishanRabari1920&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KishanRabari1920&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<details>
-<summary><b>🏆 GitHub Trophies (click to expand)</b></summary>
-<br>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KishanRabari1920&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-</details>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KishanRabari1920/KishanRabari1920/output/github-contribution-grid-snake.svg" alt="snake" />
-
-</div>
-
-> ℹ️ *This animation lights up once the snake GitHub Action is set up on this repo — see the "Making it fully live" note below.*
-
-<br>
-
 ## 💼 Currently
 
 - 🔭 Sharpening AI/ML fundamentals through structured training
@@ -155,7 +122,5 @@ me.say_hi()
 <div align="center">
 
 ### 💬 Let's connect and build something worth shipping.
-
-<img src="https://komarev.com/ghpvc/?username=KishanRabari1920&style=flat-square&color=2E9EF7" alt="profile views" />
 
 </div>
